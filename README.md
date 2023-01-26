@@ -168,7 +168,8 @@ Publish the website in the given URL.
     </HTML>
     ```
 ## OUTPUT:
-![Screenshot from 2023-01-26 16-18-46](https://user-images.githubusercontent.com/118660461/214821589-5a3bb8c7-91bb-42f8-ac30-123a150ada20.png)
+![Screenshot from 2023-01-26 16-17-37](https://user-images.githubusercontent.com/118660461/214822438-4c4f86c5-2c5c-4754-9b7d-fda87e769c9e.png)
+
 
 
 ## Result:
